@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
 
-//n MVC architecture for web apps, special @Component classes (like @Controller and @RestController) handle HTTP requests or we can say mainly provides the endpoints, interact with the model layer (business logic and data), and serve appropriate responses to the view layer.
+//n MVC architecture for web apps, special @Component classes (like @Controller and @RestController) handle HTTP requests or, we can say mainly provides the endpoints, interact with the model layer (business logic and data), and serve appropriate responses to the view layer.
 //In short:
 //Controllers process web requests, coordinate with the model, and deliver results to the user interface—this is core to the MVC pattern.
 //Then in the services folder the codes for the buisness logic lies where the various services exposed to the client in this controller section is present Check services.
